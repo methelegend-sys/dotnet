@@ -63,7 +63,7 @@ using WebApplication1.Models;
             WriteLiteral("<h1>Welcome to Sum Page</h1>\r\n\r\n");
             EndContext();
             BeginContext(72, 325, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "af9370b3cb834c46ae316ea5ac2f5fd3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8308f198a43e43b2ae6050395dc6aabf", async() => {
                 BeginContext(131, 259, true);
                 WriteLiteral(@"
 
